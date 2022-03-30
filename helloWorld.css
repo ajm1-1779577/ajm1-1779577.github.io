@@ -1,8 +1,22 @@
-#Header h1{
+body {
+    background-color: lightblue;
+}
+  
+h1 {
+    color: black;
+    text-align: center;
+}
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+#Header {
     font-weight: normal;
 }
 
-#Image{
+#Image {
     width: 400px;
     height: 500px;
 }
